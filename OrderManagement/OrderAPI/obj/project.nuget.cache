@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iEDq4z4IVwF9F0h6bhrqgfj8tVzPhBQs3aX7Ecw1bhvWXO8uD+f02RXfwMhIlYO3UmAseoouP5Zekwt6b+1Z2Q==",
+  "dgSpecHash": "EqomWypCCxH/U5y8EnQJiw8WCQKEFpgKyWTjqXgQVJUFLwTN6Vc1jFmM/jFzhrWRvAML5Y8uL6j/z5rfj2FkrA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\DotNet\\OrderManagement\\OrderAPI\\OrderAPI.csproj",
+  "projectFilePath": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\OrderAPI\\OrderAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

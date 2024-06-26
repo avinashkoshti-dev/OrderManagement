@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\DotNet\\OrderManagement\\OrderAPI\\OrderAPI.csproj",
+      "projectUniqueName": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\OrderAPI\\OrderAPI.csproj",
       "projectName": "OrderAPI",
-      "projectPath": "D:\\Github\\DotNet\\OrderManagement\\OrderAPI\\OrderAPI.csproj",
+      "projectPath": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\OrderAPI\\OrderAPI.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\DotNet\\OrderManagement\\OrderAPI\\obj\\",
+      "outputPath": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\OrderAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

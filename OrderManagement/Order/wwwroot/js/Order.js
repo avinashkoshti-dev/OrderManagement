@@ -33,9 +33,7 @@ $(() => {
                 for (let item of orderItemList) {
                     item.OrderHeaderId = res.data.id;
                 }
-                var obj = {
-                    "list": orderItemList
-                }
+              
                 fetch('https://localhost:7135/api/API/CreateOrderItem', {
                     method: 'POST',
                     headers: {

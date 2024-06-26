@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\DotNet\\OrderManagement\\Order\\Order.csproj",
+      "projectUniqueName": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\Order\\Order.csproj",
       "projectName": "Order",
-      "projectPath": "D:\\Github\\DotNet\\OrderManagement\\Order\\Order.csproj",
+      "projectPath": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\Order\\Order.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\DotNet\\OrderManagement\\Order\\obj\\",
+      "outputPath": "D:\\Github\\DotNet\\OrderMgmt\\OrderManagement\\Order\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
